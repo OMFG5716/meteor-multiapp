@@ -7,5 +7,5 @@ Run once and watch all your apps start up!
 ### TODO
 Add a shell script version.
 
-Add more interactivity and make it a single file version which'll takes CLI arguments
-for other meteor directories to start
+Add more interactivity - make it a single file version which'll take CLI arguments
+for other meteor apps to start.
