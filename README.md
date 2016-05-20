@@ -3,3 +3,9 @@ meteor-multiapp is an interactive batch script to turn on multiple meteor apps l
 
 meteor-multiapp helps you save time by running such multiple apps, and at the same time ensuring MongoDB is shared between them.
 Run once and watch all your apps start up! 
+
+### TODO
+Add a shell script version.
+
+Add more interactivity and make it a single file version which'll takes CLI arguments
+for other meteor directories to start
